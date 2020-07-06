@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  LoginViewController.h
 //  ParseChat
 //
 //  Created by Fiona Barry on 7/6/20.
@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+NS_ASSUME_NONNULL_BEGIN
+
+@interface LoginViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
